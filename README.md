@@ -16,7 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-- ![#f03c15] 'Contact me' 
+- ![#f03c15] 'Contact me' `#f03c15`
  - [FACEBOOK](https://www.facebook.com/itz.baid)
 
 
